@@ -1,6 +1,4 @@
 hahah
-<<<<<<< HEAD
 heiheih
-=======
 xixix
->>>>>>> 62a8860e6881602d7431a974ee9cbefa19a9d35d
+
